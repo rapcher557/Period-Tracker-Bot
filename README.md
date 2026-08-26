@@ -27,5 +27,5 @@ A simple Telegram bot for tracking and managing menstrual periods, built with Py
 ابتدا مخزن را Clone کنید:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/rapcher557/Period-Tracker-Bot.git
+cd Period-Tracker-Bot
